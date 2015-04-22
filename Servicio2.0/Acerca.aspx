@@ -16,7 +16,7 @@
 <br />
     
     Este sitio busca enriquecer a nuestra comunidad de egresados, así como mejorar el 
-    seguimiento a los mismos.</p>
+    seguimiento a los mismos, gracias por tu participación.</p>
     
 </asp:Content>
 
